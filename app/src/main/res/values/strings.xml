@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hepatitic A Rate</string>
+    <string-array name="year">
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+    </string-array>
+
+</resources> 

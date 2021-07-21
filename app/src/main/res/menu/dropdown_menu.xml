@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/grafik2017"
+        android:title="Grafik 2017"/>
+
+    <item
+        android:id="@+id/grafik2018"
+        android:title="Grafik 2018"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/grafik2019"
+        android:title="Grafik 2019"
+        app:showAsAction="never"/>
+
+
+</menu>
